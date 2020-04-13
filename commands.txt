@@ -1,0 +1,21 @@
+Create package.json
+    npm init
+
+// npm init 
+// press enter and enter a description
+// test command: 
+//  github
+// keywords: Learning
+// author djeter0624
+// liscence: (ISC) Refer License.md or md5
+
+
+
+Install Lodash
+    npm install lodash
+
+
+Stop HTTP Server
+    ctrl + c
+
+
