@@ -1,0 +1,12 @@
+{
+    "name" : "danielle",
+    "company" : "edureka",
+    "contact" : [4239482424, 4234242444],
+    "address" : {
+        "flatno" : "424",
+        "society" : "The Way",
+        "city" : "Alpharetta",
+        "country" : "USA",
+        "pincode" : 30004
+    }
+}
